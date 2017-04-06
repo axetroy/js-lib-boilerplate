@@ -1,4 +1,6 @@
 # js-lib-boilerplate
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/axetroy/js-lib-boilerplate.svg)](https://greenkeeper.io/)
 [![Build Status](https://travis-ci.org/axetroy/js-lib-boilerplate.svg?branch=master)](https://travis-ci.org/axetroy/js-lib-boilerplate)
 [![Dependency](https://david-dm.org/axetroy/js-lib-boilerplate.svg)](https://david-dm.org/axetroy/js-lib-boilerplate)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
