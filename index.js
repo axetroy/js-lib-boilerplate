@@ -1,1 +1,4 @@
-console.log('js-lib-boilerplate');
+// @flow
+
+var name:string = 'axetroy'
+console.log(name);
